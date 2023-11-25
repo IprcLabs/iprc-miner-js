@@ -3,17 +3,17 @@
 This Polygon IPRC PoW Miner Program is a Node.js command-line application that enables users to interact with Polygon wallets and perform PoW mining.
 
 # Info
-**tick**IPRC
+-**tick**:IPRC
 
-**total**:21000000
+-**total**:21000000
 
-**amt**1000
+-**amt**:1000
 
-**difficulty**0x0000
-
-!!! warning
-    warning: Your transaction HASH must start with difficulty(0x0000) to be recognized
+-**difficulty**:0x0000
     
+> [!WARNING]
+> warning: Your transaction HASH must start with difficulty(0x0000) to be recognized
+
 ## Features
 
 **Wallet Management**: Manage Polygon wallets, including viewing wallet information, creating new wallets, and setting up existing accounts.
