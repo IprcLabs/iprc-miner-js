@@ -37,9 +37,9 @@ yarn install
 1. Create wallet Or Set wallet
 
 ```shell
-yarn cli wallet -create
+yarn cli wallet --create
 Or
-yarn cli wallet -set <privateKey>
+yarn cli wallet --set <privateKey>
 ```
 
 Note: Newly created wallets require a transfer of funds
@@ -47,7 +47,7 @@ Note: Newly created wallets require a transfer of funds
 2. pow mine
 
 ```shell
-yarn cli mine <tick> --account <address>
+yarn cli mine iprc --account <address>
 ```
 
 
