@@ -72,6 +72,6 @@ yarn cli mine iprc --account <address>
 
 ### Mining Commands
 
-Start Mining: yarn cli mine <tick> --account <address>
+Start Mining: yarn cli mine iprc --account <address>
 
 - Start mining by specifying the number of ticks and the mining address.
